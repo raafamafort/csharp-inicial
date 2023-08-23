@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\logonrmlocal\\Desktop\\cp1\\RaslowApplication\\RaslowApplication.csproj": {}
+    "C:\\Users\\logonrmlocal\\Source\\Repos\\csharp-inicial\\RaslowApplication\\RaslowApplication.csproj": {}
   },
   "projects": {
-    "C:\\Users\\logonrmlocal\\Desktop\\cp1\\RaslowApplication\\RaslowApplication.csproj": {
+    "C:\\Users\\logonrmlocal\\Source\\Repos\\csharp-inicial\\RaslowApplication\\RaslowApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\logonrmlocal\\Desktop\\cp1\\RaslowApplication\\RaslowApplication.csproj",
+        "projectUniqueName": "C:\\Users\\logonrmlocal\\Source\\Repos\\csharp-inicial\\RaslowApplication\\RaslowApplication.csproj",
         "projectName": "RaslowApplication",
-        "projectPath": "C:\\Users\\logonrmlocal\\Desktop\\cp1\\RaslowApplication\\RaslowApplication.csproj",
+        "projectPath": "C:\\Users\\logonrmlocal\\Source\\Repos\\csharp-inicial\\RaslowApplication\\RaslowApplication.csproj",
         "packagesPath": "C:\\Users\\logonrmlocal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\logonrmlocal\\Desktop\\cp1\\RaslowApplication\\obj\\",
+        "outputPath": "C:\\Users\\logonrmlocal\\Source\\Repos\\csharp-inicial\\RaslowApplication\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

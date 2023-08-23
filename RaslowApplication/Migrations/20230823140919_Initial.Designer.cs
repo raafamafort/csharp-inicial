@@ -12,7 +12,7 @@ using RaslowApplication.Persistence;
 namespace RaslowApplication.Migrations
 {
     [DbContext(typeof(OracleDbContext))]
-    [Migration("20230823133611_Initial")]
+    [Migration("20230823140919_Initial")]
     partial class Initial
     {
         /// <inheritdoc />
